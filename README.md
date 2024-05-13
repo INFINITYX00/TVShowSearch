@@ -5,7 +5,7 @@ Type in any word in the form and click search and it will bring up a list of TV 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/INFINITYX00/eslando)
-![GitHub contributors](https://img.shields.io/github/contributors/your-github-repo/your-project)
+![GitHub contributors](https://img.shields.io/github/contributors//INFINITYX00/eslando)
 ![GitHub issues](https://img.shields.io/github/issues/your-github-repo/your-project)
 ![GitHub forks](https://img.shields.io/github/forks/your-github-repo/your-project)
 ![GitHub stars](https://img.shields.io/github/stars/your-github-repo/your-project)
