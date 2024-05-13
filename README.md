@@ -93,7 +93,7 @@ For additional support or documentation, please refer to the project's documenta
 
 ## Credits
 
-- Special thanks to [Contributor 1] ([GitHub](https://github.com/contributor1)) and [Contributor 2] ([GitHub](https://github.com/contributor2)) and [Contributor 3] ([GitHub](https://github.com/contributor3)) and [Contributor 4] ([GitHub](https://github.com/contributor4)) and [Contributor 5] ([GitHub](https://github.com/contributor5)) for their contributions to the project.
+- Special thanks to [Alex Curwood] ([GitHub](https://github.com/alexcurwood)) and [Contributor 2] ([GitHub](https://github.com/contributor2)) and [Contributor 3] ([GitHub](https://github.com/contributor3)) and [Contributor 4] ([GitHub](https://github.com/contributor4)) and [Contributor 5] ([GitHub](https://github.com/contributor5)) for their contributions to the project.
 
 ## License
 
