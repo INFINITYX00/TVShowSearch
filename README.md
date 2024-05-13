@@ -4,7 +4,7 @@ Type in any word in the form and click search and it will bring up a list of TV 
 # Digital Product Passport for Eslando
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-github-repo/your-project)
+![GitHub last commit](https://img.shields.io/github/last-commit/https://github.com/INFINITYX00/eslando)
 ![GitHub contributors](https://img.shields.io/github/contributors/your-github-repo/your-project)
 ![GitHub issues](https://img.shields.io/github/issues/your-github-repo/your-project)
 ![GitHub forks](https://img.shields.io/github/forks/your-github-repo/your-project)
