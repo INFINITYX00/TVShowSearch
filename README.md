@@ -37,7 +37,7 @@ recycling, reduce waste and ease the fashion industry’s environmental impact. 
 breakthrough technology, the Relabel Digital Product Passport, connects brands with
 recyclers and engages eco-conscious consumers worldwide.
 
-
+<br>
 
 # Frequently Asked Questions
 
