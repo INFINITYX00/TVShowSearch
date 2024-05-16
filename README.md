@@ -1,7 +1,7 @@
 TV Show Search that fetches data from TV Show API and displays it to the user.
 Type in any word in the form and click search and it will bring up a list of TV shows. 
 
-## Revolutionising Sustainable Fashion: Eslando Unveils Digital Product Passports for Seamless Recycling
+# Revolutionising Sustainable Fashion: Eslando Unveils Digital Product Passports for Seamless Recycling
 
 Eslando, a pioneer in sustainable fashion technology, is proud to announce the
 launch of its groundbreaking solution, Digital Product Passports. This innovative QR
@@ -28,7 +28,7 @@ way the industry approaches sustainability.
 For more information about Eslando and their Digital Product Passports, please visit
 https://www.eslando.com.
 
-# About Eslando:
+## About Eslando:
 
 Eslando is a circular fashion tech company on a mission to accelerate textile
 recycling. They prioritise equal commitment to brands, recyclers and sorters,
@@ -41,7 +41,7 @@ recyclers and engages eco-conscious consumers worldwide.
 
 ## Frequently Asked Questions
 
-# Who is Eslando?
+## Who is Eslando?
 
 Eslando is a circular fashion tech company on a mission to accelerate textile
 recycling. They prioritise equal commitment to brands, recyclers and sorters,
@@ -50,7 +50,7 @@ recycling, reduce waste and ease the fashion industry’s environmental impact. 
 breakthrough technology, the Relabel Digital Product Passport, connects brands with
 recyclers and engages eco-conscious consumers worldwide.
 
-# What are Digital Product Passports?
+## What are Digital Product Passports?
 
 Eslando's Digital Product Passports are QR code-based identifiers that enable seamless
 tracking of clothing throughout its lifecycle, from production to recycling. These
@@ -79,20 +79,20 @@ disposal at end-of-life
 by parties other than the manufacturer
 
 
-# Are Digital Product Passports a legal requirement on garments?
+## Are Digital Product Passports a legal requirement on garments?
 
 In 2024, the EU will implement new legislation requiring nearly all products sold in
 the union to have a digital product passport (DPP) in order to improve the
 transparency of product's value chains.
 
-# How do brands benefit from Digital Product Passports?
+## How do brands benefit from Digital Product Passports?
 
 Brands can utilise Digital Product Passports to track their products throughout the supply
 chain, ensuring transparency and accountability. By attaching unique QR codes to their
 garments, brands can provide valuable data that facilitates efficient recycling processes
 for their customers.
 
-# How do collectors use Digital Product Passports?
+## How do collectors use Digital Product Passports?
 
 Collectors scan the QR codes on garments using Eslando's platform to access important
 information provided by brands. This data helps collectors match garments with the most
@@ -103,14 +103,14 @@ the garments they process. This allows them to optimise their operations and ens
 that materials are recycled in the most efficient and environmentally friendly manner
 possible.
 
-# Is Eslando’s platform user-friendly?
+## Is Eslando’s platform user-friendly?
 
 Yes, Eslando's platform is designed with ease of use in mind. The intuitive interface
 makes it simple for consumers, brands, collectors, and recyclers to interact with Digital
 Product Passports, facilitating seamless collaboration and driving positive environmental
 impact.
 
-# How can I learn more about Eslando and its Digital Product Passports?
+## How can I learn more about Eslando and its Digital Product Passports?
 For more information about Eslando and its Digital Product Passports, please visit our
 website at (https://www.eslando.com). Additionally, feel free to reach out to our media
 contact for any inquiries or interview requests
